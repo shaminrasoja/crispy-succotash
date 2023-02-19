@@ -1,4 +1,4 @@
-# Crispy Succotash Automatest test suite
+# Crispy Succotash Automation test suite
 
 ## Pre Requisites
 1. Install [Node js](https://nodejs.org/en/download/) (support: Node.js 8 and above)
