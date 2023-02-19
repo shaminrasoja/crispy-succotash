@@ -169,7 +169,7 @@
     "yauzl": "^2.10.0"
   },
   "scripts": {
-    "test": "cypress run --spec \"cypress/e2e/tests-in-order.cy.js\""
+    "test": "cypress run --browser chrome --spec \"cypress/e2e/tests-in-order.cy.js\""
   },
   "author": "shamin goonetileke",
   "license": "ISC"
